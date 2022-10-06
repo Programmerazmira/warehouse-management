@@ -1,0 +1,56 @@
+[
+    {
+      "id": "1",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPqu1Kup2g1NzQggY_dbx0oSRAwch94DjBw97HtJwycvKtWWylGMf18w7cXPHVQlzmIIs&usqp=CAU",
+      "title": "Mcconnell Silva",
+      "text": "Maybelline Colour Sensational Lipstick ",
+      "supplier": "Maybelline ",
+      "quantity": "7.89 kl",
+      "ratings": "$3,562.09"
+    },
+    {
+      "id": "2",
+      "picture": "https://images-sg.girlstyle.com/wp-content/uploads/2022/04/29a678f1.png?quality=90",
+      "title": "Araceli makeup",
+      "text": "Makeup Revolution Product Biphase Blusher",
+      "supplier": " Revolution ",
+      "quantity": "6.90 kl",
+      "ratings": "$3,251.19"
+    },
+    {
+      "id": "3",
+      "picture": "https://m.media-amazon.com/images/I/715-gOKGXTL._AC_SX679_.jpg",
+      "title": "Joyce product",
+      "text": "Rimmel London Make Up Beauty Bundle ",
+      "supplier": " Rimmel ",
+      "quantity": "7.50 kl",
+      "ratings": "$3,716.50"
+    },
+    {
+      "id": "4",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9AeadlvciOzy67NnzpvA9kiuYBjhzW_j-J8VS6GHOryThUvmFHTHWu_b2TvKzRV_CoqA&usqp=CAU",
+      "title": "Ramona Boone",
+      "text": "Glory Cosmetics Luxury Collection ",
+      "supplier": " Glory ",
+      "quantity": "5.58 kl",
+      "ratings": "$3,074.20"
+    },
+    {
+      "id": "5",
+      "picture": "https://m.media-amazon.com/images/I/51KH9TIf8TL._AC_SY879_.jpg",
+      "title": "Ramona riun product",
+      "text": "Matis Reponse Eyes Makeup Remover",
+      "supplier": " Matis Reponse ",
+      "quantity": "9.67 kl",
+      "ratings": "$3,703.86"
+    },
+    {
+      "id": "6",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFgoN6hUtIEod-OmKZln5W_fLtYhkFHNGr2VwPnIcyrTYWhy8mr2lbk-V7aZ-qpW-XfAE&usqp=CAU",
+      "title": "Becker Greer",
+      "text": "FantasyDay All-in-one full Makeup Kit ",
+      "supplier": " FantasyDay",
+      "quantity": "9.89 kl",
+      "ratings": "$3,025.62"
+    }
+  ]
